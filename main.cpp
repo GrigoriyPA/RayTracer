@@ -5,11 +5,11 @@ typedef long double ld;
 #include <vector>
 #include <cmath>
 
-#include "ñommon_classes/Vect3.h"
-#include "ñommon_classes/ComplexLD.h"
-#include "ñommon_classes/EqtSolver.h"
-#include "ñommon_classes/Plane.h"
-#include "ñommon_classes/ColourRGB.h"
+#include "common_classes/Vect3.h"
+#include "common_classes/ComplexLD.h"
+#include "common_classes/EqtSolver.h"
+#include "common_classes/Plane.h"
+#include "common_classes/ColourRGB.h"
 
 #include "scene_objects/Light.h"
 #include "scene_objects/SceneObject.h"
